@@ -1,5 +1,5 @@
 import React from 'react'
-import MoviesGrid from '../components/MoviesGrid'
+import {MoviesGrid} from '../components/MoviesGrid'
 
 function LandinPage() {
   return (

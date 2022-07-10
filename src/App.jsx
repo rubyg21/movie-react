@@ -1,5 +1,5 @@
 // import './App.css'
-import MoviesGrid from './components/MoviesGrid'
+import {MoviesGrid} from './components/MoviesGrid'
 import movies from './components/movies.json'
 import styles from './App.module.css'
 import MovieDetails from './pages/MovieDetails'
